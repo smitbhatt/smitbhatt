@@ -7,7 +7,7 @@
 </h3>
 
 <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **`My Projects`** <br>
-<h5>1. ConfessTCS | Web app for showing and adding confessions</h5>
+<h4>1. ConfessTCS | Web app for showing and adding confessions</h4>
 <ul>
   <li><h6>Developed a user-friendly and responsive front-end using React, incorporating features such as infinite scrolling for seamless exploration
     of a continuous stream of confessions.</h6></li>
@@ -17,7 +17,7 @@ Router for declarative routing and a smooth, single-page application experience.
 </h6></li>
   </ul>
   
-  <h5>2. MilkSense: Real-time Milk Quality Monitoring System</h5>
+  <h4>2. MilkSense: Real-time Milk Quality Monitoring System</h4>
 <ul>
   <li><h6>Built a dynamic website using React.js, fetching real-time milk quality data from Firebase and displaying it in an intuitive and responsive
 user interface.
@@ -30,9 +30,9 @@ coordinates between hardware and software components.
 </h6></li>
   </ul>
 
-
+<br>
 💬 Ask me about **Frontend Development.**
-
+<br>
 📫 How to reach me **smitbhatt138@gmail.com**
 
 📄 Know about my experiences at my **[LinkedIn Profile](https://linkedin.com/in/smitbhatt)**
