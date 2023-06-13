@@ -7,6 +7,28 @@
 </h3>
 
 <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **`My Projects`** <br>
+<h5>1. ConfessTCS | Web app for showing and adding confessions</h5>
+<ul>
+  <li><h6>Developed a user-friendly and responsive front-end using React, incorporating features such as infinite scrolling for seamless exploration
+    of a continuous stream of confessions.</h6></li>
+  <li><h6>Integrated Firebase as the secure backend database for efficient storage and management of confessions.</h6></li>
+  <li><h6>Employed React Redux for centralized state management, ensuring efficient data flow throughout the application, while utilizing React
+Router for declarative routing and a smooth, single-page application experience.
+</h6></li>
+  </ul>
+  
+  <h5>2. MilkSense: Real-time Milk Quality Monitoring System</h5>
+<ul>
+  <li><h6>Built a dynamic website using React.js, fetching real-time milk quality data from Firebase and displaying it in an intuitive and responsive
+user interface.
+</h6></li>
+  <li><h6>Integrated Arduino and Node MCU to capture sensor readings and transmit the data to Firebase and then to the React.js frontend,
+ensuring seamless communication between the hardware and web application.</h6></li>
+  <li><h6>Led a team of four students in the end-to-end design, coding, and implementation of a highly functional application that effectively
+coordinates between hardware and software components.
+
+</h6></li>
+  </ul>
 
 
 💬 Ask me about **Frontend Development.**
