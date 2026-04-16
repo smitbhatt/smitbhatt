@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="40" /> I'm Smit Bhatt 👨‍💻
+# Hi there, I'm Smit Bhatt 👨‍💻
 
 <h3 align="center">
 Frontend Engineer • React • Next.js • Performance Optimization • AI-Powered Applications
